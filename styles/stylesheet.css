@@ -22,6 +22,16 @@ ul {
   
 }
 
+.strike {
+  text-decoration: line-through;
+  display: inline;
+}
+
+.font-red {
+  color: red;
+  display: inline;
+}
+
 .black {
   
   display: inline-block;
